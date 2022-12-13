@@ -13,7 +13,7 @@ function buzzfeedQuiz() {
   
   // task 5: declare variables for values we'll set later. You'll need one for an image source, a result and a score for each question.
   let imgSrc;
-  let character;
+  let plant;
   let q1Score;
   let q2Score;
   let q3Score;
